@@ -7,7 +7,7 @@ I've used HTML, CSS, PHP and Bootstrap
 
 ## General info
 This project is for my first internship on Web Development and Designing on The Sparks Foundation. 
-##### LinkedIn : 
+##### LinkedIn : https://www.linkedin.com/in/aryan-tsb-870206192
 	
 ## Technologies
 Project is created with:
